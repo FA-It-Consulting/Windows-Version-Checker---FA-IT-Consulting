@@ -34,3 +34,10 @@ A lightweight PowerShell GUI tool developed by **FA-IT Consulting** to identify 
 ├── VersionChecker.ps1        # Main PowerShell GUI script
 ├── FAIT_logo.png             # Optional logo to display in GUI
 └── README.md                 # This documentation
+
+
+---
+
+Souhaites-tu que je te crée aussi un **fichier `.gitignore`**, une **version exécutable `.exe`**, ou que je publie le dépôt initial pour toi sur GitHub ?  
+Tu peux aussi m’envoyer ton logo `FAIT_logo.png` pour l’intégrer directement.
+
